@@ -1,4 +1,4 @@
-# excel_to_postgres.py
+# Excel to PostgreSQL converter
 
 Скрипт `excel_to_postgres.py` читает данные из Excel-файла (`.xlsx`) и генерирует SQL-скрипт для PostgreSQL:
 
@@ -22,7 +22,7 @@
 Установка зависимостей:
 
 ```bash
-pip install pandas openpyxl
+pip install -r requirements.txt
 ```
 
 ## Быстрый старт
